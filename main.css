@@ -1,0 +1,60 @@
+body {
+  font-family: 'Montserrat';
+  margin: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 1rem;
+}
+
+header a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #0051ff;
+  isolation: isolate;
+  display: block;
+}
+
+main {
+  padding: 5rem 0;
+  background-image: linear-gradient(131deg, #115ae5, #8955ce, #c04fb7, #ec44a0);
+  color: #fff;
+  width: 100%;
+}
+
+main h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+main p {
+  font-size: 1.5rem;
+  margin-top: .5rem;
+}
+
+main a {
+  background: #fff;
+  padding: 1rem 2rem;
+  margin-top: 0.5rem;
+  display: inline-block;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #0051ff;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+section h2 {
+  font-size: 3rem;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=main.css.map */
